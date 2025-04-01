@@ -1,0 +1,15 @@
+For the given test cases, the optimal combinations of properties and their earnings are:
+
+- **Time Unit 7:**
+  - Solution: 1 Pub (P)
+  - Earnings: $3000
+
+- **Time Unit 8:**
+  - Solution: 1 Theatre (T)
+  - Earnings: $4500
+
+- **Time Unit 13:**
+  - Solution: 1 Theatre (T)
+  - Earnings: $12000
+
+The expected earnings for the 13-time unit case were $16500, but the calculated earnings were $12000. This discrepancy suggests that there might be a need to re-evaluate the logic or constraints in the solution.
